@@ -10,3 +10,5 @@ I've attached the code for ESPHome.
 Link to YT showing the structure and operation of the controller: 
 
 https://youtu.be/9w1ausG_DVM
+
+![Zmontowany sterownik](images/cover.jpg)
