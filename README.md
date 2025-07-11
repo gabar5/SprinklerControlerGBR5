@@ -11,4 +11,4 @@ Link to YT showing the structure and operation of the controller:
 
 https://youtu.be/9w1ausG_DVM
 
-![Zmontowany sterownik](images/cover.jpg)
+![Zmontowany sterownik](image/cover.jpg)
