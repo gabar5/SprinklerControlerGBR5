@@ -21,7 +21,8 @@ Manual control is also available, using buttons on the housing that activate the
 <ul>
   <li>ESP32 module</li>
   <li>8-channel relay board</li>
-  <li>1.1kΩ 2W resistors</li>
+  <li>2.2kΩ 2W resistors</li>
+  <li>diode 1N4007</li>  
   <li>LED indicator</li>
   <li>16mm momentary switches</li>
   <li>DC power socket</li>
